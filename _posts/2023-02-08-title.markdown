@@ -1,6 +1,6 @@
 1. TitleProvider 클래스를 생성 후 현재 탭 위치를 확인해주는
    <br/>checkTab과 title을 변경해주는 changeTitl함수를 생성해줍니다
-   
+
 ```dart
 class TitleProvider extends ChangeNotifier{
   String title = '사전등록';
@@ -19,7 +19,6 @@ class TitleProvider extends ChangeNotifier{
 }
 ```
 <center>title_provider.dart</center>
-<br/>
 <br/>
 
 2. TabController선언 후 initState() 함수안에 탭이
