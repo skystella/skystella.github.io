@@ -1,4 +1,13 @@
-#[게임리뷰] Dadish 3
+---
+title: Pa!nt 게임 리뷰
+author: cotes
+date: 2023-03-09 22:18:00 +9
+categories: [Blogging, Game Review]
+tags: [Pa!nt, Game Review, Indie Game]
+pin: false
+---
+
+#[게임리뷰] Pa!nt
 
 ####1. 게임 소개
 2022 Google Play 인디게임 페슽티벌 Top 10 선정작인 Pa!nt라는 게임입니다. 캐릭터와 구조물의 색상이 같으면 통과되고 다르면 통과되지않는 시스템인 이게임은 주인공인 문어 캐릭터의 색상을 상황에 맞는 색상의 아이템을 찾아 캐릭터의 색을 바꾸고 최종적으로 문을칠하는 아이템을 찾아 문을 칠하고 클리어하는 게임입니다.
