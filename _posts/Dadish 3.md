@@ -29,7 +29,7 @@ pin: false
 
 세번째로 지형지물로는 점프대, 밟을시 부서지는 블록, 대포, 일정시간 뒤에 사라지는 블록 등등 같은 종류의 지형 몬스터 장애물이 반복되는것이아닌 매번 다른 종류의 지형 몬스터 장애물이 나와 매번 새롭고 그러한 지형을 이용하고 몬스터의 특성을 파악하고 장애물의 패턴을 읽어 플레이하다보니 질리지않고 재밌게 플레이했습니다.
 
-<img src= 'image/../../image/jumpbar.png' width="150" height="250"> <img src= 'image/../../image/break.png' width="270" height="250"><img src= 'image/../../image/push.png' width="200" height="250"> <img src= 'image/../../image/hide.png' width="620" height="150">
+<img src= 'image/../../image/jumpbar.png' width="200" height="250"> <img src= 'image/../../image/break.png' width="270" height="500"><img src= 'image/../../image/push.png' width="300" height="250"> <img src= 'image/../../image/hide.png' width="620" height="150">
 
 **두번째로** 각맵마다 가기 어려운 장소나 숨겨져있는 별을 찾는 시스템이 게임의 매력적인 점중 하나라고 생각합니다. 만약에 게임이 너무 쉽게 느껴지거나 숨겨져있는 별을 찾아보고 싶거나 별을 수집하고싶다는 목표를 가지고 게임을 더 즐겁게 플레이할 수 있기 떄문입니다.
 
