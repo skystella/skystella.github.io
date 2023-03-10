@@ -149,7 +149,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ### Default (with caption)
 
-![](/posts/20190808/mockup.png){: width="972" height="589" }
+![](/image/sky.jpg){: width="972" height="589" }
 _Full screen width and center alignment_
 
 ### Left aligned
