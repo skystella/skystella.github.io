@@ -33,9 +33,24 @@ With your property created, you now need to set up Data Stream to track your blo
 4. Add a stream and click on **Web**
 5. Enter your blog's URL
 
-It should look like this:
+It should look like this:]
 
-![google-analytics-data-stream](/posts/20210103/01-google-analytics-data-stream.png){: width="1086" height="542"}
+asdf
+asd
+fas
+dfas
+fd
+as
+df
+af
+d
+asd
+fd
+asd
+f
+
+
+![google-analytics-data-stream](skystella.github.io/image/green.png){: width="1086" height="542"}
 
 Now, click on the new data stream and grab the **Measurement ID**. It should look something like `G-V6XXXXXXXX`. Copy this to your `_config.yml`{: .filepath} file:
 
