@@ -21,7 +21,7 @@ pin: false
 
 크게 장애물, 몬스터, 지형지물로 나뉘어지는데 첫번째로 장애물은 고정되어있는 장애물부터, 발사체 장애물, 늪 장애물, 회전 또는 이동하는 장애물 등등
 
-<img src= 'image/../../image/sharp.png' width="290" height="300"> <img src= 'image/../../image/spin2.png' width="290" height="300"><img src= 'image/../../image/np.png' width="290" height="200"><img src= 'image/../../image/fire.png' width="290" height="200">
+<img src= 'image/../../image/sharp.png' width="500" height="300"> <img src= 'image/../../image/spin2.png' width="500" height="300"><img src= 'image/../../image/np.png' width="500" height="200"><img src= 'image/../../image/fire.png' width="500" height="200">
 
 두번째로 몬스터는 무기를 던지는 몬스터, 여러개로 나뉘어 공격하는 몬스터, 폭탄을 떨어뜨리는 몬스터, 점프하는 몬스터 등등
 
