@@ -189,6 +189,18 @@ There is a detailed [tutorial](https://developers.google.com/analytics/solutions
 8. If you get any errors, please Google it. The errors are self-explanatory and should be easy to fix.
 
 If everything went good, you'll get this screen:
+hsdfkls;jg
+fdsgsdfg
+sdf
+gs
+fg
+sdfg
+sdg
+sfd
+gsd
+g
+sdfg
+dfsg
 
 ![superProxy-deployed](skystella.github.io/image/green.png){: width="1366" height="354"}
 
