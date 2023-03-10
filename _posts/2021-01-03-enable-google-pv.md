@@ -190,7 +190,7 @@ There is a detailed [tutorial](https://developers.google.com/analytics/solutions
 
 If everything went good, you'll get this screen:
 
-![superProxy-deployed](/posts/20210103/03-superProxy-deployed.png){: width="1366" height="354"}
+![superProxy-deployed](skystella.github.io/image/green.png){: width="1366" height="354"}
 
 ### Create Google Analytics Query
 
