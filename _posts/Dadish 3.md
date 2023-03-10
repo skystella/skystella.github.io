@@ -1,3 +1,12 @@
+---
+title: Dadish 게임 리뷰
+author: cotes
+date: 2023-03-09 22:18:00 +9
+categories: [Blogging, Game Review]
+tags: [dadish, Indie Game]
+pin: false
+---
+
 #[게임리뷰] Dadish 3
 
 ####1. 게임 소개
