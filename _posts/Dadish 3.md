@@ -25,7 +25,7 @@ pin: false
 
 두번째로 몬스터는 무기를 던지는 몬스터, 여러개로 나뉘어 공격하는 몬스터, 폭탄을 떨어뜨리는 몬스터, 점프하는 몬스터 등등
 
-<img src= 'image/../../image/hotdog.png' width="500" height="200"> <img src= 'image/../../image/bread.png' width="500" height="250"><img src= 'image/../../image/boom2.png' width="500" height="400"> <img src= 'image/../../image/jump.png' width="200" height="400">
+<img src= 'image/../../image/hotdog.png' width="500" height="200"> <img src= 'image/../../image/bread.png' width="500" height="250"><img src= 'image/../../image/boom2.png' width="500" height="600"> <img src= 'image/../../image/jump.png' width="200" height="600">
 
 세번째로 지형지물로는 점프대, 밟을시 부서지는 블록, 대포, 일정시간 뒤에 사라지는 블록 등등 같은 종류의 지형 몬스터 장애물이 반복되는것이아닌 매번 다른 종류의 지형 몬스터 장애물이 나와 매번 새롭고 그러한 지형을 이용하고 몬스터의 특성을 파악하고 장애물의 패턴을 읽어 플레이하다보니 질리지않고 재밌게 플레이했습니다.
 
