@@ -17,7 +17,7 @@ pin: false
 ###2. 매력적인 부분
 **첫 번째로** 게임의 규칙이 캐릭터의 색상과 같은 색상의 구조물을 통과 헐 수 있고 그 외에 색상의 구조물을 통과 못한다는 점을 이용해 게임을 플레이한다는 규칙이 다른 비슷한 유형의 게임들의 규칙과 비교했을 때 비해 독특하고 창의적이었습니다.
 
-<img src= 'image/../../image/green.png' width="500" height="400"> <img src= 'image/../../image/red.png' width="500" height="400"><img src= 'image/../../image/blue.png' width="520" height="400"> <img src= 'image/../../image/yellow.png' width="520" height="400">
+<img src= 'image/../../image/green.png' width="500" height="400"> <img src= 'image/../../image/red.png' width="500" height="400"><img src= 'image/../../image/blue.png' width="500" height="400"> <img src= 'image/../../image/yellow.png' width="500" height="400">
 
 **두 번째로** 이 게임은 물감 물감통 4가지 색상의 구조물 시스템을 전략적으로 이용하여 문을 칠하기 위한 붓을 얻고 문까지 가는 게임인데 물감과 물감 통을 어떻게 이용하느냐 또 지정된 위치를 순간이동할 수 있는 아이템이나 나 상하를 반전시켜주는 아이템이나 나 특정 구조물 아래를 지나갈 시 그 아이템의 해당하는 색상으로 캐릭터의 색상을 바꿔주는 등의 아이템들을 어떤 식으로 이용하여 구조물을 이동할 것인지라는 수많은 변수 따라 클리어의 여부가 달라진다는 점에서 크게 매력을 느꼈습니다.
 
