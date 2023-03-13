@@ -7,9 +7,9 @@ tags: [dungeons of dreadrock, game review, indie game]
 pin: false
 ---
 
-#[게임 리뷰] Wall Kickers
+# [게임 리뷰] Wall Kickers
 
-####1. 게임 소개
+#### 1. 게임 소개
 구글 플레이스토어 최신 글로벌 인디게임에 있는 dungeons of dreadrock이라는 게임을 플레이 해봤습니다. 이게임은 상하좌우 블록 한칸씩 움직이는 조작방식이며 스테이지 내에있는 몬스터를 죽이고 여러가지 구조물을 이용하여 최종적으로 문까지 도달하는 퍼즐게임입니다.
 
 ![](https://user-images.githubusercontent.com/124504898/224283930-0f3e04b1-7299-4109-ba82-162b63178b99.png)
