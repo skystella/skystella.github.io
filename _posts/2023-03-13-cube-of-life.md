@@ -1,7 +1,7 @@
 ---
 title: Cube Of Life 게임 리뷰
 author: cotes
-date: 2023-03-13 20:17:00 +9
+date: 2023-03-13 19:17:00 +9
 categories: [Game Review]
 tags: [Cube Of Life, game review, indie game]
 pin: false
