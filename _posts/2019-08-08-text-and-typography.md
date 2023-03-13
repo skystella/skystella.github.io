@@ -4,7 +4,6 @@ author: cotes
 date: 2019-08-08 11:33:00 +0800
 tags: [typography]
 ---
-![star2](https://user-images.githubusercontent.com/124504898/224231041-06f65530-e08d-416e-8934-3e384e4198d2.png)
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
 ## Titles
