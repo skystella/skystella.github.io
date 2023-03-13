@@ -9,7 +9,7 @@ pin: false
 
 # [게임 리뷰] Cube Of Life
 
-#### 1. 게임 소개
+### 1. 게임 소개
 한 유튜버가 추천하는 인디게임 중 하나인 Cube Of Life라는 게임을 플레이해 보고 리뷰를 적어봤습니다. 이 게임은 유물과 원하는 무기를 장착하고 업그레이드할 수 있습니다.
 
 ![weapon](https://user-images.githubusercontent.com/124504898/224658852-7e2c7dfe-e550-4bca-89d8-197aae055d37.png)
