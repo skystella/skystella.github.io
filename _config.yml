@@ -97,7 +97,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:              # <gh-username>/<repo>
+    repo: "skystella/skystella.github.io"             # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
@@ -151,7 +151,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false
+      comments: true
   - scope:
       path: ''
       type: tabs             # see `site.collections`
