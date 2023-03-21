@@ -24,11 +24,11 @@ Param : 뒤끝 서버와 통신을 할 때 넘겨주는 파라미터 클래스
 | GetJson | string | Param에 저장된 데이터를 Json 형태로 리턴합니다. |
 | GetValue | SortedList | Param에 저장된 SortedList를 리턴합니다. |
 
-**- Clear()**
+**- Clear()**<br/>
 Param에 저장된 데이터를 초기화합니다.
 <br/>
 
-```C#
+```#
 Param param = new Param();
 ''''
 param.clear();
