@@ -29,7 +29,10 @@ html {
 }
 
 body {
-  background: var(--body-bg);
+  //background: var(--body-bg);
+  background: url(https://user-images.githubusercontent.com/124504898/226581476-927e9d2c-c9b2-44d3-aa33-2ad15db5a900.jpg);
+  background-size: 100% 100%;
+  background-position: center;
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
   font-family: "Source Sans Pro", "Microsoft Yahei", sans-serif;
