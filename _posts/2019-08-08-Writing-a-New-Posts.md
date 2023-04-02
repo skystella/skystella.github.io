@@ -8,7 +8,7 @@ render_with_liquid: false
 ---
 
 
-![2023-04-02 22 52 30](https://user-images.githubusercontent.com/124504898/229357211-065276ec-7b8a-4c6f-b820-c2d2b608748f.png){: .align-center}
+![2023-04-02 22 52 30](https://user-images.githubusercontent.com/124504898/229357211-065276ec-7b8a-4c6f-b820-c2d2b608748f.png){: .align-center}{: width="100" height="100"}
 *Radius : 1*
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
