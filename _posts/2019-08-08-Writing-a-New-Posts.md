@@ -47,7 +47,7 @@ In order to accurately record the release date of a post, you should not only se
 The `categories` of each post are designed to contain up to two elements, and the number of elements in `tags` can be zero to infinity. For instance:
 
 ```yaml
----
+---dfg
 categories: [Animal, Insect]
 tags: [bee]
 ---
