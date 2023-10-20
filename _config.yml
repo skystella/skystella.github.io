@@ -53,6 +53,14 @@ google_site_verification: g_ExvpFOCXmRH6Nj3xhWd79xlCEbyISNM9wLvvdfLjg           
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-YMX9SL434V"
+    anonymize_ip         : # true, false (default)
+
 google_analytics:
   id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
