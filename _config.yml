@@ -58,11 +58,11 @@ analytics:
   provider               : "google-gtag" 
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-YMX9SL434V"
+    tracking_id          : "G-HL4MD7RQ5Q"
     anonymize_ip         : # true, false (default)
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: "G-HL4MD7RQ5Q"                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
