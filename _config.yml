@@ -59,6 +59,7 @@ analytics:
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-HL4MD7RQ5Q"
+    measurement_id       : "G-HL4MD7RQ5Q"
     anonymize_ip         : # true, false (default)
 
 google_analytics:
