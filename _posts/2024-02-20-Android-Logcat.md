@@ -14,7 +14,7 @@ pin: false
 ![image (3)](https://github.com/cotes2020/jekyll-theme-chirpy/assets/124504898/1520c3d2-b5fe-4b6d-b395-5227255e3997)<br/><br/>
 유니티 에디터 상단에 Window > Analysis > Android Logcat 로 logcat창을 띄울수있음 <br/><br/>
 ![image (4)](https://github.com/cotes2020/jekyll-theme-chirpy/assets/124504898/3a7d8763-228e-4d2e-a4d1-966d0daeb6db) <br/> 
-<center/> Android Logcat </center> <br/>
+<center> Android Logcat </center> <br/>
 
 이제 노트북에 폰을 연결하면 끝이다. <br/><br/>
 연결이 완료되면 하단에 Connected라고 표시되면서 로그가 찍힌다 <br/>
