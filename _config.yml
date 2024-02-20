@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://skystella.github.io'
 
 github:
-  username: skystella             # change to your github username
+  username: none             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
