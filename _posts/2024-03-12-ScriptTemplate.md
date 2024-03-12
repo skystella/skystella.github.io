@@ -1,14 +1,11 @@
 ---
-title: Visual Studio 초기 템플릿 수정
+title: 유니티(Visual Studio) Script 초기 템플릿 수정하는 방법
 author: cotes
 date: 2024-03-12 15:50:00 +9
 categories: [Summary Note]
 tags: [summary note, unity, visual studio, script]
 pin: false
 ---
-
-## 유니티(Visual Studio) Script 초기 템플릿 수정하는 방법
-
 1. 메모장을 관리자 권한으로 실행<br/>
 win + R 누르고 notepad입력한 뒤에 ctrl + shift + enter 관리자 권한으로 실행 <br/><br/>
 2. 메모장 상단 파일 -> 열기 클릭<br/>
